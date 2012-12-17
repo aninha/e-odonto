@@ -135,7 +135,10 @@ $select_id_convenio = $linha_select_convenio['id'];
 </div>
 
 <!-- INICIO RODAPE -->
-         <? include ("rodape.php"); ?>
+         <? include ("rodape.php"); 
+
+		// inclusao feita por aninha
+?>
 <!-- FIM RODAPE -->
 		 
    </div>
